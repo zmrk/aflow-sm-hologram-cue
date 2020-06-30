@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Entrance",
+    "repeatWith": null,
+    "cue": [
+      {
+        "group": null,
+        "cue": "sc_ent_on",
+        "name": "관객 입장 시작",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": null,
+        "cue": "sc_ent_off",
+        "name": "관객 입장 끝",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      }
+    ]
+  },
+  {
+    "name": "Show",
+    "repeatWith": null,
+    "cue": [
+      {
+        "group": null,
+        "cue": "sc_mc_on",
+        "name": "모캡 ON",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": null,
+        "cue": "sc_mc_off",
+        "name": "모캡 OFF",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": null,
+        "cue": "sc_g_on",
+        "name": "갤러리 ON",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": null,
+        "cue": "sc_g_off",
+        "name": "갤러리 OFF",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      }
+    ]
+  }
+]

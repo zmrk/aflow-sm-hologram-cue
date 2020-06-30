@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Entrance",
+    "repeatWith": null,
+    "cue": [
+      {
+        "group": null,
+        "cue": "smgo_ent_on_def",
+        "name": "관객 입장 시작",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": null,
+        "cue": "smgo_ent_off_def",
+        "name": "관객 입장 끝",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      }
+    ]
+  },
+  {
+    "name": "Show",
+    "repeatWith": "artist",
+    "cue": [
+      {
+        "group": null,
+        "cue": "smgo_t_s",
+        "name": "아티스트 토크 시작 (대본 시작)",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": "Event",
+        "cue": "smgo_e_on",
+        "name": "이벤트 갤러리 ON",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": "Event",
+        "cue": "smgo_e_c",
+        "name": "이벤트 관객 선정 (쌤베어 등장)",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": "Event",
+        "cue": "smgo_e_w",
+        "name": "이벤트 선정 관객 발표",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": "Event",
+        "cue": "smgo_e_off",
+        "name": "이벤트 갤러리 OFF",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": "AR",
+        "cue": "smgo_ar_on",
+        "name": "AR ON",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": "AR",
+        "cue": "smgo_ar_off",
+        "name": "AR OFF",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": "AR",
+        "cue": "smgo_ar_on2",
+        "name": "AR ON2",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": "AR",
+        "cue": "smgo_ar_teston",
+        "name": "AR ON (TEST)",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": "AR",
+        "cue": "smgo_ar_testoff",
+        "name": "AR OFF (TEST)",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      }
+    ]
+  },
+  {
+    "name": "Photo Time",
+    "repeatWith": null,
+    "cue": [
+      {
+        "group": null,
+        "cue": "smgo_pt_on_def",
+        "name": "PHOTO TIME 합성 사진 ON",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": null,
+        "cue": "smgo_pt_off_def",
+        "name": "PHOTO TIME 합성 사진 OFF",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      }
+    ]
+  }
+]

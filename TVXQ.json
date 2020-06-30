@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Show",
+    "repeatWith": null,
+    "cue": [
+      {
+        "group": null,
+        "cue": "tvxq_g_on",
+        "name": "갤러리 ON",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": null,
+        "cue": "tvxq_g_off",
+        "name": "갤러리 OFF",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      }
+    ]
+  }
+]

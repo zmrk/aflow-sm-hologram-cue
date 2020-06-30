@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Entrance",
+    "repeatWith": null,
+    "cue": [
+      {
+        "group": null,
+        "cue": "oz_ent_on",
+        "name": "관객 입장 시작",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": null,
+        "cue": "oz_ent_off",
+        "name": "관객 입장 끝",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      }
+    ]
+  },
+  {
+    "name": "Show",
+    "repeatWith": null,
+    "cue": [
+      {
+        "group": null,
+        "cue": "oz_g_on",
+        "name": "갤러리 ON",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": null,
+        "cue": "oz_g_off",
+        "name": "갤러리 OFF",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      }
+    ]
+  }
+]

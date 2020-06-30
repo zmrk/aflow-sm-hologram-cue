@@ -113,7 +113,7 @@
     "cue": [
       {
         "group": null,
-        "cue": "smgo_pt_on_def",
+        "cue": "smgo_pt_on",
         "name": "PHOTO TIME 합성 사진 ON",
         "color": "#E15985",
         "videoFile": null,
@@ -121,7 +121,7 @@
       },
       {
         "group": null,
-        "cue": "smgo_pt_off_def",
+        "cue": "smgo_pt_off",
         "name": "PHOTO TIME 합성 사진 OFF",
         "color": "#E15985",
         "videoFile": null,

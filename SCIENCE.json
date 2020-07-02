@@ -35,6 +35,30 @@
       },
       {
         "group": null,
+        "cue": "sc_sb_on",
+        "name": "쌤베어 등장",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": null,
+        "cue": "sc_sb_on2",
+        "name": "쌤베어 등장2 (임시)",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": null,
+        "cue": "sc_sb_off",
+        "name": "쌤베어 퇴장",
+        "color": "#E15985",
+        "videoFile": null,
+        "action": null
+      },
+      {
+        "group": null,
         "cue": "sc_mc_off",
         "name": "모캡 OFF",
         "color": "#E15985",

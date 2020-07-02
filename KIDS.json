@@ -43,22 +43,6 @@
       },
       {
         "group": null,
-        "cue": "kids_ar_teston",
-        "name": "AR ON (Test)",
-        "color": "#384B72",
-        "videoFile": null,
-        "action": null
-      },
-      {
-        "group": null,
-        "cue": "kids_ar_testoff",
-        "name": "AR OFF (Test)",
-        "color": "#384B72",
-        "videoFile": null,
-        "action": null
-      },
-      {
-        "group": null,
         "cue": "kids_g_on",
         "name": "갤러리 ON",
         "color": "#E15985",

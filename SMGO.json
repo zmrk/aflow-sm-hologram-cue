@@ -93,7 +93,7 @@
   },
   {
     "name": "Photo Time",
-    "repeatWith": null,
+    "repeatWith": "phototime",
     "cue": [
       {
         "group": null,
